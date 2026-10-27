@@ -6,7 +6,7 @@ def solve(arr):
   
     
     if len(val) != int(arr[0]):
-        print("xxxxxx")
+        
         return -1
 
     num  = map(int, val)
